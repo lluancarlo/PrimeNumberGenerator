@@ -1,0 +1,6 @@
+# User folder
+.vs/
+
+# Build results
+x64/
+x86/
